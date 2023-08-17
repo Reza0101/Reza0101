@@ -54,6 +54,9 @@
 <h3>My Streak</h3>
 <a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact" />
+</a>
+<a>
+  
 <img src="https://streak-stats.demolab.com/?user=Reza0101/&theme=burnt-neon" />
 </a>
 

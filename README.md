@@ -42,5 +42,7 @@
     </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Reza0101&show_icons=true&bg_color=dark" />
+
+<h3>My Streak</h3>
+<img src="[https://github-readme-stats.vercel.app/api?username=Reza0101&show_icons=true&bg_color=dark](https://streak-stats.demolab.com/?user=Reza0101/&theme=burnt-neon)https://streak-stats.demolab.com/?user=Reza0101/&theme=burnt-neon" />
 

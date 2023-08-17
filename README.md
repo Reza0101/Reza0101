@@ -2,9 +2,15 @@
                                >
 <h4>Fron-End Developer</h4>
 
-<h3>👩‍💻 About Me</h3>
+<h3>👨‍💻 &nbsp; About Me</h3>
 
-<h3>My expertise:</h3>
+- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
+- 🎓 &nbsp; Student of IT Subject In University
+- 💼 &nbsp; Working as a Mern Stack Developer
+- 🌱 &nbsp; Learning Git & Github
+- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 
+<h3>My expertise</h3>
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">

@@ -51,12 +51,12 @@
 </p>
 
 
-<h3>My Streak</h3>
+<h3>My Stats</h3>
 <div align="center">
-  <a width="48%">
+  <a width="45%">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact&theme=blueberry&langs_count=4" />
   </a>
-  <a width="48%">
+  <a width="45%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza0101&theme=blueberry" />
   </a>
 </div>

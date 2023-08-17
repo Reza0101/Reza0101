@@ -54,7 +54,7 @@
 <h3>My Streak</h3>
 <div align="center">
   <a width="48%">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact" />
+    <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Reza0101&theme=blueberry" />
   </a>
   <a width="48%">
     <img src="https://streak-stats.demolab.com/?user=Reza0101/&theme=burnt-neon" />

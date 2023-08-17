@@ -4,13 +4,13 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on React
 
 - 🌱 I’m currently learning Next
 
-- 💬 Ask me about React, Node, Express, Next**
+- 💬 Ask me about React
 
-- 📫 How to reach me **Ali.mirdad75@gmail.com**
+- 📫 How to reach me rezasiahi8@gmail.com
 
 <h3>My expertise</h3>
 

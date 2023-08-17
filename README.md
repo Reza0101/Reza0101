@@ -4,12 +4,11 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
-- 💼 &nbsp; Working as a Mern Stack Developer
-- 🌱 &nbsp; Learning Git & Github
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
-- 
+- 🤔 &nbsp; I'm currently working on React js
+- 🎓 &nbsp; I’m currently learning Next js
+- 💼 &nbsp; Ask me about React js
+- 📱 &nbsp; How to reach me: rezasiahi8@gmail.com
+
 <h3>My expertise</h3>
 
 <p align="left">

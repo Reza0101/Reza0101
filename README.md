@@ -53,10 +53,6 @@
 
 <h3>My Stats</h3>
 <div width="100%" style="display:flex" align="center">
-  <a width="40%">
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact&theme=blueberry&langs_count=4" />
-  </a>
-  <a width="40%">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza0101&theme=blueberry" />
-  </a>
 </div>

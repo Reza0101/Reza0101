@@ -57,6 +57,6 @@
     <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Reza0101&theme=blueberry" />
   </a>
   <a width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reza0101&show_icons=true&theme=blueberry&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact&theme=blueberry&langs_count=4" />
   </a>
 </div>

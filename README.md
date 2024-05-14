@@ -20,6 +20,12 @@
   </a>
 </p>
 
+<h3>Softwares</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,postman,kali,figma" />
+  </a>
+</p>
 
 <h3>My Stats</h3>
     <img width="380px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza0101&layout=compact&theme=blueberry&langs_count=4" />

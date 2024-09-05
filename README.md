@@ -23,7 +23,7 @@
 <h3>Softwares</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,figma,docker" />
   </a>
 </p>
 

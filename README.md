@@ -13,7 +13,6 @@
 - 📫 How to reach me rezasiahi8@gmail.com
 
 <h3>My expertise</h3>
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,redux,nextjs" />

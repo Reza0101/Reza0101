@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on NextJs, React, Typescript
 
-- 🌱 I’m currently learning web pentesting
-
 - 💬 Ask me about Front-End
 
 - 📫 How to reach me rezasiahi8@gmail.com
